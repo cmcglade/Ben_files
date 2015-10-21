@@ -1,0 +1,5 @@
+#I am ignoring the DS Store file
+
+.DS_Store
+../.DS_Store
+
