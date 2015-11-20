@@ -1,0 +1,194 @@
+/* global tags */
+
+body {
+    font-family: "Helvetica", "Arial" , serif;
+    font-size: 9pt;
+    
+}
+
+div {
+    display: block;
+    
+}
+2
+li {
+    font-size: 1em;
+}
+
+h2 {
+    font-size: 2em;
+    
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1em;
+    padding-bottom: 10px;
+    
+}
+
+/* class tags */
+
+.outer {
+    background: #f5f0ec;
+    width: 90%;
+    height: 1650px;
+    padding: 20px;
+    margin: 20px auto;
+    
+}
+
+.content {
+    background: #FFFFFF; 
+    width: 90%;
+    height: 90%;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 0px 20px;
+    
+}
+
+.nav {
+    background: #FFFFFF;
+    width: 100%;
+    height: 90px;    
+}
+
+.navlink {
+    list-style-type: none;
+    color: dimgray;
+    margin-right: 25px;
+    float:left;
+    text-align: right;   
+}
+
+.logo {
+    float: left;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+
+.menu {
+    float: right;
+    /*width: 75%;*/
+    
+}
+
+.carousel {
+    margin: 10px 10px 10px 10px;
+    text-align: center; 
+    float: left;
+}
+
+.sections {
+    margin: 10px 10px 10px 10px;
+    /*text-align: center;*/  
+    float: left;
+    
+}
+
+.button {
+    background: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    color: dimgray;   
+}
+
+.box1 {
+    background: #1a8269;
+    width: 20%;
+    float: left;
+    padding: 0px 10px 20px 10px;
+    color: #FFFFFF;
+}
+
+.box2 {
+    background: #b3d330;
+    width: 20%;
+    float: left;
+    padding: 0px 10px 20px 10px;
+    color: #FFFFFF;
+}
+
+.box3 {
+    background: #fdcf07;
+    width: 20%;
+    float: left;
+    padding: 0px 10px 20px 10px;
+    color: #FFFFFF;
+}
+
+.box4 {
+    background: #fe6601;
+    width: 20%;
+    float: left;
+    padding: 0px 10px 20px 10px;
+    color: #FFFFFF;
+}
+
+.projects {
+    color: darkslategrey;
+    float:left;
+    width: 100%;
+    /*text-align: center;*/
+}
+
+.thumbnail {
+    width: 100%;
+}
+
+.projname {
+    color: #fe6601;    
+}
+
+.proj1 {
+    width: 20%;
+    float: left;
+    padding: 0px 10px 20px 10px;
+    color: dimgrey;
+    text-align: left;
+}
+
+.footer {
+    background-color: aliceblue;
+    float: left;
+    width: 100%;
+}
+
+.links {
+    text-align: center;
+    float: left;
+    margin: 20px 40px 20px 40px;
+}
+
+.footerlink {
+    list-style-type: square;
+    color: dimgray;
+    padding-bottom: 1em;
+    text-align: left;
+    font-style: italic;
+}
+
+.socialmedia {
+    float: right;
+    margin: 10px 20px 0px 0px;
+}
+
+.icon {
+    width: 20px;   
+}
+
+/*id tags*/
+
+#homelogo {
+    height: 80px;
+   
+}
+
+#slider {
+    width: 100%;
+    
+}
